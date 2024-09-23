@@ -1,0 +1,42 @@
+.carousel-control-prev, .carousel-control-next {
+  
+  width: auto;
+  background: rgba(0, 0, 0, 0.2);
+  border-radius: 100%;
+  padding: 10px;
+  display: flex;
+}
+.jumbotron-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+body {
+  background-color: #f8f9fa; 
+}
+
+.card {
+  border: none; 
+  border-radius: 10px; 
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); 
+}
+
+.card-body {
+  padding: 30px; 
+}
+
+.card-title {
+  color: #333; 
+}
+.form-control {
+  border-color: #ddd; 
+}
+
+.form-control:focus {
+  border-color: #6c757d; 
+  box-shadow: none;
+}
+
+
+
